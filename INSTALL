@@ -1,0 +1,9 @@
+Building WeedSeeds
+
+See doc/readme-qt.rst for instructions on building WeedSeeds QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WeedSeeds.
+
+See doc/build-*.txt for instructions on building WeedSeedsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of WeedSeeds.
